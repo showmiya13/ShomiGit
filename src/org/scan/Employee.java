@@ -12,7 +12,9 @@ public static void main(String[] args) {
 	System.out.println("empid="+a );
 	System.out.println("enter the employee name");
 	String n = s.next();
+	System.out.println(" A code");
 	System.out.println("pushing the command");
 	System.out.println("pushing the verbs");
+
 }
 }
